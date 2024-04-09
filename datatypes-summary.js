@@ -24,3 +24,34 @@ const myFunction = function(){
     console.log("Hello world");
 
 }
+
+//********************************************************
+
+// Stack(Primitive)  : You will get copy of variable that you declared 
+
+// Heap(Non-Primitive):you will get refrence
+
+let myYoutubename = "vatsprabhakar"
+
+let anothername = myYoutubename
+
+anothername = "Chaiaurcode"
+
+
+console.log(myYoutubename);
+console.log(anothername);
+
+
+let userOne = {
+    email:"user@gmail.com",
+    upi:"user@ybl"
+
+
+}
+
+let userTwo = userOne
+
+userTwo.email="hitesh@googel.com"
+
+console.log(userTwo.email);
+console.log(userOne.email);
