@@ -29,7 +29,7 @@ const myFunction = function(){
 
 // Stack(Primitive)  : You will get copy of variable that you declared 
 
-// Heap(Non-Primitive):you will get refrence
+// Heap(Non-Primitive):you will get reference
 
 let myYoutubename = "vatsprabhakar"
 
