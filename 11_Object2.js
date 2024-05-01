@@ -8,7 +8,7 @@ const tinderUser = {} // Non- singleton object
  tinderUser.isLoggedIn = false
 
 //this is object
-//we can find object
+
 
 
 const regularUser = {
