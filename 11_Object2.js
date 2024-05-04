@@ -7,7 +7,7 @@ const tinderUser = {} // Non- singleton object
  tinderUser.name = "Sammy"
  tinderUser.isLoggedIn = false
 
-//this is object
+//this is object in javaScript
 
 
 
